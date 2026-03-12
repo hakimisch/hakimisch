@@ -96,5 +96,4 @@ Git • REST APIs • Figma • WordPress
 ## 📫 Connect
 
 **LinkedIn:** [https://www.linkedin.com/in/muhammad-hafiz-hakimi-925977269](https://www.linkedin.com/in/muhammad-hafiz-hakimi-925977269)  
-**Portfolio:** [https://ai-artspace.vercel.app](https://ai-artspace.vercel.app)  
 **GitHub:** [https://github.com/hakimisch](https://github.com/hakimisch)
