@@ -5,7 +5,7 @@ Junior Software Engineer | AI & Computer Vision | Full-Stack Developer | AWS Cer
 </p>
 
 <p align="center">
-Building scalable, production-ready software systems and AI research tools.
+Building <strong>scalable, production-ready software systems</strong> and <strong>AI research tools</strong>.
 </p>
 
 ---
@@ -24,68 +24,60 @@ Building scalable, production-ready software systems and AI research tools.
 ## 🚀 Featured Projects
 
 ### 🗃 CAIRO Inventory Management System
-Laravel + React + AWS
+**Laravel + React + AWS**  
 
-Research asset management system handling **RM7.5 million worth of equipment**
+Research asset management system handling **RM7.5 million worth of institutional equipment**.
 
-- AWS Elastic Beanstalk deployment
-- PostgreSQL + Amazon RDS database architecture
-- Automated KEW.PA reporting
+- Migrated application to **AWS Elastic Beanstalk + RDS PostgreSQL**  
+- Implemented automated **KEW.PA government reporting**  
+- Built **scalable inventory and reporting architecture**  
 
-🔗 https://github.com/hakimisch/cairo-inventory
+🔗 [GitHub Repo](https://github.com/hakimisch/cairo-inventory)
 
 ---
 
 ### 🤖 AI Wood Image Restoration Dataset Suite
+**Python • PyQt6 • OpenCV**  
 
-Python • PyQt6 • OpenCV
+A computer vision research platform for acquiring and managing wood image datasets.
 
-Computer vision dataset acquisition system for research.
+- Multi-threaded synchronized image capture  
+- Real-time sharpness evaluation using **Variance of Laplacian**  
+- Scaled dataset to **4,000+ verified samples across 6 wood species**  
 
-- Multi-threaded image capture
-- Real-time sharpness detection using **Variance of Laplacian**
-- 6000+ dataset samples across 6 wood species
-
-🔗 https://github.com/hakimisch/ai-wood-image-restoration
+🔗 [GitHub Repo](https://github.com/hakimisch/ai-wood-image-restoration)
 
 ---
 
-### 🎨 Artspace – AI Enhanced Artist Platform
+### 🎨 Artspace – AI-Enhanced Artist Portfolio
+**Next.js • MongoDB • Gemini API • PayPal**  
 
-Next.js • MongoDB • Gemini API
+A full-stack platform allowing artists to showcase portfolios and sell merchandise online.
 
-A full-stack platform for artists to showcase portfolios and sell merchandise.
+- AI chatbot assistant for artist FAQs  
+- PayPal e-commerce integration with role-based dashboards  
+- Portfolio system is **production-ready and fully deployed**  
 
-- AI chatbot for artist FAQs
-- PayPal ecommerce integration
-- Role-based admin dashboards
-
-🔗 https://ai-artspace.vercel.app
+🔗 [Live Site](https://ai-artspace.vercel.app) | [GitHub Repo](https://github.com/hakimisch/AI-Enhanced-Portfolio)
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
+**Languages**  
+Python • PHP • JavaScript • SQL  
 
-Python • PHP • JavaScript • SQL
+**Frameworks & Libraries**  
+Laravel • React • Next.js • TailwindCSS • Inertia.js • PyQt6  
 
-**Frameworks**
+**AI / Computer Vision**  
+OpenCV • PyTorch Dataset Structuring • PSNR • SSIM • Variance of Laplacian  
 
-Laravel • React • Next.js • TailwindCSS
+**Cloud & Databases**  
+AWS (Elastic Beanstalk • RDS • S3) • PostgreSQL • MySQL • MongoDB • SQLite  
 
-**AI / Computer Vision**
-
-OpenCV • PyTorch Dataset Structuring  
-PSNR • SSIM • Variance of Laplacian
-
-**Cloud**
-
-AWS (Elastic Beanstalk • RDS • S3)
-
-**Databases**
-
-PostgreSQL • MySQL • MongoDB • SQLite
+**Tools**  
+Git • REST APIs • Figma • WordPress  
 
 ---
 
@@ -103,11 +95,6 @@ PostgreSQL • MySQL • MongoDB • SQLite
 
 ## 📫 Connect
 
-LinkedIn  
-https://www.linkedin.com/in/muhammad-hafiz-hakimi-925977269
-
-Portfolio  
-https://ai-artspace.vercel.app
-
-GitHub  
-https://github.com/hakimisch
+**LinkedIn:** [https://www.linkedin.com/in/muhammad-hafiz-hakimi-925977269](https://www.linkedin.com/in/muhammad-hafiz-hakimi-925977269)  
+**Portfolio:** [https://ai-artspace.vercel.app](https://ai-artspace.vercel.app)  
+**GitHub:** [https://github.com/hakimisch](https://github.com/hakimisch)
