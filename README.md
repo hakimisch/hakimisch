@@ -5,16 +5,17 @@
 </p>
 
 <p align="center">
-  Building <em>scalable, production-ready software systems</em> and <em>AI research tools</em>.
+  Building <strong>scalable, production-ready software systems</strong> and <strong>AI research tools</strong>.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
@@ -74,3 +75,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hakimisch&show_icons=true&theme=radical" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimisch&layout=compact&theme=radical" height="170" />
 </p>
+
+### 📫 Connect
+
+**LinkedIn:** [https://www.linkedin.com/in/muhammad-hafiz-hakimi-925977269](https://www.linkedin.com/in/muhammad-hafiz-hakimi-925977269)  
+**GitHub:** [https://github.com/hakimisch](https://github.com/hakimisch)
