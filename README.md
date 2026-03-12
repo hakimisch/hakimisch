@@ -43,7 +43,7 @@ A computer vision research platform for acquiring and managing wood image datase
 
 - Multi-threaded synchronized image capture  
 - Real-time sharpness evaluation using **Variance of Laplacian**  
-- Scaled dataset to **4,000+ verified samples across 6 wood species**  
+- Scaled dataset to **6,000+ verified samples across 35 wood species**  
 
 🔗 [GitHub Repo](https://github.com/hakimisch/ai-wood-image-restoration)
 
