@@ -1,112 +1,107 @@
-# Muhammad Hafiz Hakimi
-Junior Software Engineer | AI Systems | Full-Stack Developer
+<h2 align="center">Hi, I'm Hakimi👋</h2>
 
-📍 Ampang, Selangor, Malaysia  
-🎓 Bachelor of IT (Software Engineering) – UniKL MIIT (Expected July 2026)
+<p align="center">
+Junior Software Engineer | AI & Computer Vision | Full-Stack Developer | AWS Certified
+</p>
 
-I build **full-stack applications and AI-assisted systems**, with experience developing research infrastructure, scalable web applications, and cloud-deployed platforms.
-
-Currently an **AI Research & Software Engineering Intern at CAIRO (UTM)** working on computer vision data pipelines and research tooling.
+<p align="center">
+Building scalable, production-ready software systems and AI research tools.
+</p>
 
 ---
 
-# Core Skills
+## 👨‍💻 About Me
+
+- 🎓 Software Engineering student graduating **July 2026**  
+- 🤖 AI Research & Software Engineering Intern at **CAIRO (UTM)**  
+- ☁️ AWS Certified Cloud Practitioner  
+- 🌱 Currently developing **AI Wood Image Restoration pipelines** and **CAIRO Inventory cloud system**  
+- 💡 Recently completed **AI-Enhanced Artist Portfolio**, a full-stack platform for digital artists  
+- 🚀 Passionate about **AI systems, computer vision, cloud-deployed applications, full-stack development, and building scalable software solutions**
+
+---
+
+## 🚀 Featured Projects
+
+### 🗃 CAIRO Inventory Management System
+Laravel + React + AWS
+
+Research asset management system handling **RM7.5 million worth of equipment**
+
+- AWS Elastic Beanstalk deployment
+- PostgreSQL + Amazon RDS database architecture
+- Automated KEW.PA reporting
+
+🔗 https://github.com/hakimisch/cairo-inventory
+
+---
+
+### 🤖 AI Wood Image Restoration Dataset Suite
+
+Python • PyQt6 • OpenCV
+
+Computer vision dataset acquisition system for research.
+
+- Multi-threaded image capture
+- Real-time sharpness detection using **Variance of Laplacian**
+- 6000+ dataset samples across 6 wood species
+
+🔗 https://github.com/hakimisch/ai-wood-image-restoration
+
+---
+
+### 🎨 Artspace – AI Enhanced Artist Platform
+
+Next.js • MongoDB • Gemini API
+
+A full-stack platform for artists to showcase portfolios and sell merchandise.
+
+- AI chatbot for artist FAQs
+- PayPal ecommerce integration
+- Role-based admin dashboards
+
+🔗 https://ai-artspace.vercel.app
+
+---
+
+## 🛠 Tech Stack
 
 **Languages**
+
 Python • PHP • JavaScript • SQL
 
 **Frameworks**
-Laravel • React • Next.js • TailwindCSS • Inertia.js
+
+Laravel • React • Next.js • TailwindCSS
 
 **AI / Computer Vision**
+
 OpenCV • PyTorch Dataset Structuring  
 PSNR • SSIM • Variance of Laplacian
 
-**Cloud & Databases**
-AWS (Elastic Beanstalk, RDS, S3)  
+**Cloud**
+
+AWS (Elastic Beanstalk • RDS • S3)
+
+**Databases**
+
 PostgreSQL • MySQL • MongoDB • SQLite
 
-**Tools**
-Git • REST APIs • Figma • WordPress
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hakimisch&show_icons=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimisch&layout=compact"/>
+
+</p>
 
 ---
 
-# Featured Projects
-
-## CAIRO Inventory Management System
-Laravel + React + AWS
-
-Research asset management system handling **RM7.5 million worth of institutional equipment**.
-
-Key work:
-- Migrated application to **AWS Elastic Beanstalk + RDS PostgreSQL**
-- Implemented automated **government KEW.PA reporting**
-- Built scalable inventory and reporting architecture
-
-Repo  
-https://github.com/hakimisch/cairo-inventory
-
----
-
-## AI Wood Image Restoration Dataset Suite
-Python • PyQt6 • OpenCV
-
-Computer vision dataset acquisition platform developed during my internship at CAIRO.
-
-Features:
-- Multi-threaded synchronized image capture
-- Real-time sharpness evaluation using **Variance of Laplacian**
-- Dataset scaled to **4,000+ verified samples across 6 wood species**
-
-Repo  
-https://github.com/hakimisch/ai-wood-image-restoration
-
----
-
-## Artspace – AI-Enhanced Artist Platform
-Next.js • MongoDB • Gemini API • PayPal
-
-Full-stack web platform allowing artists to showcase portfolios and sell artwork online.
-
-Features:
-- AI chatbot assistant for artist FAQs
-- E-commerce checkout with PayPal
-- Role-based dashboards for artists and administrators
-
-Live  
-https://ai-artspace.vercel.app
-
-Repo  
-https://github.com/hakimisch/AI-Enhanced-Portfolio
-
----
-
-# Professional Experience
-
-**AI Research & Software Engineering Intern**  
-Centre for Artificial Intelligence and Robotics (CAIRO) – Universiti Teknologi Malaysia  
-2026
-
-- Built Python-based research infrastructure for computer vision datasets
-- Developed Laravel + React inventory system managing institutional assets
-- Deployed applications using AWS cloud services
-
-**Freelance Laravel Developer**  
-HECTADATA Sdn Bhd  
-2024
-
-- Developed reporting modules for financial transaction platforms
-- Improved system performance and reliability
-
----
-
-# Certifications
-
-AWS Certified Cloud Practitioner (2026 – 2029)
-
----
-
-# Connect
+## 📫 Connect
 
 LinkedIn  
 https://www.linkedin.com/in/muhammad-hafiz-hakimi-925977269
