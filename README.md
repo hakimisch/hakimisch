@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hakimi 👋</h1>
 
 <p align="center">
-  <strong>Junior Software Engineer | AI & Computer Vision | Full-Stack Developer | AWS Certified</strong>
+  <strong>Software Engineer | AI & Computer Vision | Full-Stack Developer | AWS Certified</strong>
 </p>
 
 <p align="center">
