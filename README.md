@@ -34,19 +34,6 @@
 
 ### 🚀 Featured Projects
 
-#### 🗃 CAIRO Inventory Management System
-> Digitizing research equipment across 2 campuses - 34 government compliance forms, automated PDF generation, and OCR batch import.
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-*  Deployed on AWS Elastic Beanstalk + RDS + S3 | 38 controllers, ~130 routes, 58React pages
-* Built 1,201-line OCR engine batch-importing 51 PO items + 59 DO items fromsupplier PDFs, bypassing manual data entry
-* All 34 KEW.PA government forms (PA-1 → PA-32) with one-click PDF generation viaChromium
-* Three user roles, admin dashboards with Chart.js, activity audit logging
-* 🔗 [GitHub Repo](https://github.com/hakimisch/cairo-inventory)
-
----
-
 #### 🤖 AI Wood Image Restoration & Recognition Suite
 > 99.85% species classification accuracy across 35 Malaysian hardwoods, trained 5 restoration architectures on a 6GB consumer GPU.
 
@@ -58,6 +45,19 @@
 * Domain gap discovery: physics-based training halves the synthetic-to-real gapfrom −7.65 dB to −3.84 dB proven by ablation study
 * First-author paper documenting findings with 4.2 GB of reproducible artifacts
 * 🔗 [GitHub Repo](https://github.com/hakimisch/ai-wood-image-restoration)
+
+---
+
+#### 🗃 CAIRO Inventory Management System
+> Digitizing research equipment across 2 campuses - 34 government compliance forms, automated PDF generation, and OCR batch import.
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+*  Deployed on AWS Elastic Beanstalk + RDS + S3 | 38 controllers, ~130 routes, 58React pages
+* Built 1,201-line OCR engine batch-importing 51 PO items + 59 DO items fromsupplier PDFs, bypassing manual data entry
+* All 34 KEW.PA government forms (PA-1 → PA-32) with one-click PDF generation viaChromium
+* Three user roles, admin dashboards with Chart.js, activity audit logging
+* 🔗 [GitHub Repo](https://github.com/hakimisch/cairo-inventory)
 
 ---
 
