@@ -62,6 +62,7 @@
 
 #### 🧠 Homelab Inference Cluster
 > Distributed AI inference stack — vLLM, Ollama, Prometheus/Grafana, Streamlit — Dockerized across WSL (RTX 4070) + homelab, linked via Tailscale.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-8B5CF6?style=flat-square&logo=python&logoColor=white)
 * Twin-node design: **WSL compute (RTX 4070 12 GB)** + **homelab services** — 10 Docker containers, zero public ports
 * Dual engines: **vLLM** (Qwen3-8B-AWQ) + **Ollama** (Gemma 4 12B, LFM2.5-8B MoE at ~170 tok/s)
